@@ -1,0 +1,6 @@
+D:\DomashnaRabota\StringExercise\06\bin\Debug\06.exe.config
+D:\DomashnaRabota\StringExercise\06\bin\Debug\06.exe
+D:\DomashnaRabota\StringExercise\06\bin\Debug\06.pdb
+D:\DomashnaRabota\StringExercise\06\obj\Debug\06.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\StringExercise\06\obj\Debug\06.exe
+D:\DomashnaRabota\StringExercise\06\obj\Debug\06.pdb
